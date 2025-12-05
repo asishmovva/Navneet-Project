@@ -1,0 +1,16 @@
+<svg width="720" height="320" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Soft waves illustration</title>
+  <desc id="desc">A minimal wave pattern with calming colors.</desc>
+  <defs>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e1f5ff"/>
+      <stop offset="100%" stop-color="#c7dfff"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="320" fill="#f7fbff"/>
+  <path d="M0,220 C120,200 220,260 360,230 C500,200 600,260 720,230 L720,320 L0,320 Z" fill="url(#wave)" opacity="0.9"/>
+  <path d="M0,200 C120,180 220,240 360,210 C500,180 600,240 720,210 L720,320 L0,320 Z" fill="#dff0ff" opacity="0.8"/>
+  <circle cx="120" cy="80" r="14" fill="#1b4b66" opacity="0.25"/>
+  <circle cx="600" cy="110" r="10" fill="#1b4b66" opacity="0.2"/>
+  <circle cx="420" cy="60" r="18" fill="#f8b400" opacity="0.3"/>
+</svg>

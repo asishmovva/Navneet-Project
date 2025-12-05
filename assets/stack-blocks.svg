@@ -1,0 +1,12 @@
+<svg width="640" height="320" viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Stacked blocks illustration</title>
+  <desc id="desc">A set of simple geometric blocks representing habit stacking.</desc>
+  <rect width="640" height="320" fill="#f8fbff"/>
+  <rect x="80" y="180" width="110" height="70" rx="12" fill="#c6dbff"/>
+  <rect x="200" y="150" width="120" height="100" rx="14" fill="#b3e4e0"/>
+  <rect x="340" y="120" width="140" height="130" rx="16" fill="#ffd89c"/>
+  <rect x="500" y="95" width="70" height="155" rx="14" fill="#ffcdba"/>
+  <circle cx="135" cy="140" r="18" fill="#1b4b66" opacity="0.15"/>
+  <circle cx="430" cy="85" r="22" fill="#1b4b66" opacity="0.2"/>
+  <path d="M120 260 Q180 240 240 260 T360 260 T480 260 T600 260" stroke="#1b4b66" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.2"/>
+</svg>
